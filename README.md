@@ -11,3 +11,9 @@ Solution:
 2. Expand the C/C++ section in the side menu.
 3. Select Optimization.
 4. Change the Optimization setting to Disabled (/Od) using the dropdown menu.
+
+Wrong version error
+Solution:
+
+1. Download ClientsWindow.xaml.cs from the repo.
+2. Replace the old ClientsWindow.xaml.cs (Main Folder > XenoUI > ClientsWindow.xaml.cs) with the downloaded one.
