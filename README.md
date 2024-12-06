@@ -1,7 +1,7 @@
 # Xeno-SRC
 Archived because I knew it would get deleted soon
 
-I did NOT make this, all credit goes to .rizve, this is only an archive of the file.
+I did NOT make this, all credit goes to .rizve, this is only an archive of the files if they get deleted.
 
 # Fixing Issues
 Incompatible Command-Line Options: '/O2' and '/RTC1'
