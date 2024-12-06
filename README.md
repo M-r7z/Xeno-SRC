@@ -20,7 +20,7 @@ Solution:
 
 # Making your own UI
 1. **Open the Solution Explorer**  
-   - Find "XenoUI" in the Solution Explorer pane.  
+   - Find "XenoUI" in the Solution Explorer.  
    - Open **`MainWindow.xaml`**.  
 
 2. **Editing the Menu**  
