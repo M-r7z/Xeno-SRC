@@ -17,3 +17,23 @@ Solution:
 
 1. Download ClientsWindow.xaml.cs from the repo.
 2. Replace the old ClientsWindow.xaml.cs (Main Folder > XenoUI > ClientsWindow.xaml.cs) with the downloaded one.
+
+# Making your own UI
+1. **Open the Solution Explorer**  
+   - Find "XenoUI" in the Solution Explorer pane.  
+   - Open **`MainWindow.xaml`**.  
+
+2. **Editing the Menu**  
+   - Once the file is open, you can start customizing the UI.  
+
+3. **Editing Additional Windows**  
+   - **ClientsWindows.xaml**:  
+     - This file is for enabling the multi client feature UI.  
+     - Double-click on **`ClientsWindows.xaml`** in the Solution Explorer to open it for editing.  
+
+   - **ScriptsWindow.xaml**:  
+     - This is the main window.  
+
+# Updating offsets
+Go to the file: 
+Main Folder > Xeno > include > worker.hpp
